@@ -14,7 +14,7 @@
 - Grafika zgodnie z opisem zadania
 
 ## 📸 Podgląd strony
-![Podgląd strony](Screenshots/podgląd_strony.jpg)
+![Podgląd strony](Screenshots/Podglad_strony.jpg)
 
 ## 🏷️ Licencja
 MIT
