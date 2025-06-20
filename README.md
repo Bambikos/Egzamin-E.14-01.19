@@ -1,27 +1,23 @@
-# E.14‑02‑19.01 – egzamin praktyczny (styczeń 2019, wersja #02)
+# Egzamin E.14 (01.19)
 
-**Zadanie:**  
-Przygotowanie aplikacji internetowej z HTML, CSS, JS i grafiką, zgodnie z wytycznymi CKE.
+**Temat:** Tworzenie aplikacji internetowej zgodnie z wymaganiami egzaminacyjnymi kwalifikacji E.14.  
+**Data:** Styczeń 2019, wersja 01
 
 ## 📁 Struktura
-- `assets/images/` – grafika zaszyfrowana i przerobiona (`napisy.png`)
-- `formaty.html` – layout: baner, 3 panele, główny panel, stopka
-- `styl2.css` – style sekcji `baner`, `górne panele`, `stopka`, responsywność
-- `.gitignore`
+- `index.html` – kod strony
+- `styl.css` – style CSS
+- `grafika/` – grafiki do strony
 
 ## 🧩 Wymagania
-- Grafika:
-  - przezroczystość białych obszarów
-  - wysokość 300 px, skala szarości
-  - zapis w formacie z obsługą przezroczystości
-- Strona:
-  - nazwa `formaty.html`, poprawne kodowanie UTF‑8
-  - `<title>`: „Formatowanie”
-  - layout zgodny z opisem, użyte `<header>`, `<section>`, `<footer>`
-  - poprawne podłączenie `styl2.css`
+- Zgodność z treścią egzaminu E.14
+- Poprawne formatowanie i układ strony
+- Grafika zgodnie z opisem zadania
 
-## 🛠 Jak uruchomić
-1. Sklonuj repo:  
-   ```bash
-   git clone https://github.com/<TwojNick>/E.14-02-19.01.git
-   cd E.14-02-19.01
+## 📸 Podgląd strony
+
+
+## 🏷️ Licencja
+MIT
+
+## ✍️ Autor
+Bambikos • [GitHub](https://github.com/Bambikos)
