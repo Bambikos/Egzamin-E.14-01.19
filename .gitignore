@@ -1,0 +1,3 @@
+# ignoruj pliki systemowe i tymczasowe
+*.DS_Store
+Thumbs.db
